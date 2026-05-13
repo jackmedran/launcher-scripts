@@ -1,3 +1,5 @@
 refrech.exe
-yopmail.ahk
-open gmail.ahk
+closeprofiles.exe
+ReadMessage (2).exe
+SendMessage.exe
+yopmail.exe
