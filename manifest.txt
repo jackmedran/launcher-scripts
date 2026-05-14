@@ -1,5 +1,5 @@
 ReadMessage (2).exe|ReadMessage (2).ico
-SendMessage.exe|SendMessage.ico
+SendMessages.exe|SendMessages.ico
 refrech.exe|refrech.ico
 closeprofiles.exe|closeprofiles.ico
 yopmail.exe|yopmail.ico
