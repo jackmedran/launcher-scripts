@@ -3,4 +3,4 @@ SendMessages.exe|SendMessage.ico
 refrech.exe|refrech.ico
 closeprofiles.exe|closeprofiles.ico
 yopmail.exe|yopmail.ico
-excuteSendM.exe
+excuteSendM.exe|excuteSendM.ico
